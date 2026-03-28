@@ -1,4 +1,5 @@
-# Predictive Analytics for Indonesia's Economic Forecasting
+> ⚠️ **ARCHIVED** — This work has been consolidated into:
+> - [idx-trading-system](https://github.com/alazkiyai09/idx-trading-system) — Comprehensive IDX trading platform\n\n# Predictive Analytics for Indonesia's Economic Forecasting
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
